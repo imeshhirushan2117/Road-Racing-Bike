@@ -30,3 +30,16 @@
 #line_3{
     top: 450px;
 }
+#bike{
+background-image: url("../images/myBike.png");
+    width: 50px;
+    height: 120px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    bottom: 12px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    position: absolute;
+
+}
