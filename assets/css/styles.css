@@ -1,0 +1,32 @@
+#backGroundImg{
+    height: 100vh;
+    width: 100%;
+}
+#gameRoad{
+    background-color: black;
+    height: 483px;
+    width: 211px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    margin: auto;
+    overflow: hidden;
+}
+.line{
+    position: absolute;
+    background-color: aliceblue;
+    height: 150px;
+    width: 6%;
+    margin-left: 48%;
+}
+#line_1{
+    top: -150px;
+}
+#line_2{
+    top: 150px;
+}
+#line_3{
+    top: 450px;
+}
