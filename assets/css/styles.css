@@ -80,4 +80,36 @@ background-image: url("../images/myBike.png");
     position: absolute;
     top: -414px;
 }
+#reStart{
+position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color:#292929;
+    color: white;
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+    display: none;
+}
+#btnRestart{
+    border: none;
+    padding: 25px;
+    color: aliceblue;
+    background-color: #b33939;
+    font-size: 30px;
+    margin-top: 30%;
+}
 
+#scoreDiv{
+    position: absolute;
+    margin-top: -178px;
+    margin-left: 10%;
+    font-size: 30px;
+    background-color: burlywood;
+    color: #292929;
+    padding: 10px;
+    box-shadow: 4px 4px 0px 1px #808080;
+}
+.rSmall{
+    font-size: 20px;
+}
