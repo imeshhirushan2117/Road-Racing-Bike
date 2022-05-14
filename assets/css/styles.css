@@ -5,7 +5,7 @@
 #gameRoad{
     background-color: black;
     height: 483px;
-    width: 211px;
+    width: 375px;
     position: absolute;
     top: 0;
     bottom: 0;
@@ -41,5 +41,43 @@ background-image: url("../images/myBike.png");
     right: 0;
     margin: auto;
     position: absolute;
-
 }
+#dBike1{
+    background-image: url("../images/dbike_1.png");
+    width: 116px;
+    height: 124px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    bottom: 158px;
+    left: 68px;
+    right: 0;
+    margin: auto;
+    position: absolute;
+}
+#dBike2{
+    background-image: url("../images/dbike_1.png");
+    width: 116px;
+    height: 124px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    bottom: 15px;
+    left: -39px;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    top: -414px;
+}
+#dBike3{
+    background-image: url(../images/dbike_1.png);
+    width: 116px;
+    height: 124px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    bottom: 300px;
+    left: -143px;
+    right: 0;
+    margin: auto;
+    position: absolute;
+    top: -414px;
+}
+
